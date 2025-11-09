@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am currently a part-time postgraduate research student at the University of Surrey, UK. After obtaining my MPhys in 2021 with a thesis on applying unsupervised machine learning to the study of galaxy spectra, I joined the Centre for Vision, Speech and Signal Processing (CVSSP). My research now lies at the intersection of computer vision, graphics, and artificial intelligence. Specifically, I am interested in learning algorithms that build decomposable, object-centric representations of 3D environments. In addition, I continue to possess a strong interest in data-driven astronomy and maintain collaborative ties in this field.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Alongside my research, I serve as an associate teaching assistant, acting as lead module tutor for several postgraduate modules within the Surrey Institute for People-Centred AI (PAI).
