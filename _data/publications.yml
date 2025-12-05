@@ -1,6 +1,6 @@
 featured:
 - {name: 'Emergent Denoising of SDSS Galaxy Spectra Through Unsupervised Deep Learning (Submitted to MNRAS for Review)', url: 'https://arxiv.org/abs/2510.08411'}
-- {name: 'Clonoxels: Exploiting Repetitive Structures for Efficient View Synthesis (Short Paper Accepted at CVMP 2025)', url: '/publications/Clonoxels_ShortPaper.pdf'}
+- {name: 'Clonoxels: Exploiting Repetitive Structures for Efficient View Synthesis (Winner of Best Short Paper at CVMP 2025)', url: '/publications/Clonoxels_ShortPaper.pdf'}
 - {name: 'ForecasterFlexOBM: A Multi-View Audio-Visual Dataset for Flexible Object-Based Media Production', url: 'https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/ForecasterFlexOBM-A-Multi-View-Audio-Visual-Dataset-for/99870765002346'}
 
 index:
