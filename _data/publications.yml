@@ -6,6 +6,6 @@ featured:
 
 index:
 - {name: 'Emergent Denoising of SDSS Galaxy Spectra Through Unsupervised Deep Learning', url: 'https://doi.org/10.1093/mnras/stag1165'}
-- {name: 'Vanishing Volumes: Constraining Reconstructions of Fine-Structured Objects from Coarse Segmentation', url: 'https://diglib.eg.org/items/aba60c78-8326-4754-8c49-f84b33f21746'}
+- {name: 'Vanishing Volumes: Constraining Reconstructions of Fine-Structured Objects from Coarse Segmentation (Best Short Paper CEIG2026)', url: 'https://diglib.eg.org/items/aba60c78-8326-4754-8c49-f84b33f21746'}
 - {name: 'Clonoxels: Reduce, Reuse, and Register for Efficient Voxel-Based Radiance Fields', url: 'https://diglib.eg.org/items/af5607e9-c674-4cc3-8f10-c4db272e9021'}
 - {name: 'ForecasterFlexOBM: A Multi-View Audio-Visual Dataset for Flexible Object-Based Media Production', url: 'https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/ForecasterFlexOBM-A-Multi-View-Audio-Visual-Dataset-for/99870765002346'}
